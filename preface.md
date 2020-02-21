@@ -1,5 +1,7 @@
-## Questions for section Introduction for Preface
 
+
+## Questions for section Introduction for Preface
+By Shao-Fei Jin
 #### Finding more textbooks focuing on the ECOLOGY using Baidu or Google.
 Ecology can be divided into many sections, e.g. Community ecology, Landscape ecology.
 
